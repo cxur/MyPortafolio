@@ -118,8 +118,8 @@ body{
 }
 
 .about img {
-    height: 300px;
-    width: 300px;
+    height: auto;
+    width: 175px;
     border-radius: 50%;
     
 }
